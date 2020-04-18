@@ -1,13 +1,3 @@
-html{
-    font-size: 14px;
-}
-.my-class{
-    padding: 1rem;
-}
-.my-class>div{
-    margin-bottom: 0.5rem;
-}
-
 :focus{
     padding: 0.5rem;
     border: solid 2px black;
